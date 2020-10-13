@@ -1,0 +1,22 @@
+# Setup
+title:               Pratik BORHADE
+tagline:             'A passionate software engineer'
+description:         ''
+url:                 https://www.linkedin.com/in/pratik-borhade-a4229149/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Pratik BORHADE
+  url:               https://www.linkedin.com/in/pratik-borhade-a4229149/
+  email:             pratik.borhade@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
