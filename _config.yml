@@ -5,6 +5,7 @@ description:         ''
 url:                 https://www.linkedin.com/in/pratik-borhade-a4229149/
 baseurl:             ''
 paginate:            5
+paginate_path: "/page:num/"
 permalink:           pretty
 
 # About/contact
@@ -14,6 +15,9 @@ author:
   email:             pratik.borhade@gmail.com
 
 # Gems
+gems:
+  - jekyll-paginate
+  
 plugins:
   - jekyll-paginate
 
