@@ -4,7 +4,7 @@ title: Experience
 ---
 
 ### Natixis | IT Quant Consultant 
-# November 2017 to Present in Paris, France
+#### November 2017 to Present in Paris, France
 
 Natixis is a corporate and investment bank. Our team develops pricer for sophisticated derived instruments (primarily Options) with help of pricing models developed by quantitative team. We are also responsible for developing and maintaining projects to calculate sensitivities (Greeks), building and maintaining a framework for distributed computing to solve time consuming calculations like Credit Value Adjustment and creating attractive UI applications in C# which is used by traders to visualize data. My key contributions are as follows.
 * Created a rich library for Apache Phoenix, Hive using ODBC drivers and power of template metaprogramming. This library is easy to use and develop. It helped my fellow colleagues to easily put in place various projects which used these technologies to store huge amounts of data.
@@ -21,7 +21,7 @@ Natixis is a corporate and investment bank. Our team develops pricer for sophist
 * Introduced unit tests for all new developments, supported the team by introducing them to new technologies and developed new techniques and tools for Hadoop. Re-factoring legacy code whenever there are bugfixes.
 
 ### Finastra (formerly Misys) | Software Engineer
-# February 2014 to November 2017 in Paris, France
+#### February 2014 to November 2017 in Paris, France
 
 Misys is a software editor with multiple solutions targeting banks and financial institutions. Our team was responsible for developing and maintaining core functionality of portfolio management for product 'Fusion Invest / Sophis Value'. Fusion Invest is used by many financial institutions and bank to manage their portfolios, funds and create complicated derived instruments. My responsibilities were as follows.
 * Working on development of new features related to Portfolio Management, Fund Management (Internal/External), calculations of P&L and Greeks.
@@ -33,7 +33,7 @@ Misys is a software editor with multiple solutions targeting banks and financial
 * Acquired proficiency in template metaprogramming, Standard Template Library (STL), Design Patterns, Software Architecture, Unit Testing and Boost while working here.
 
 ### Amadeus | Software Engineer
-# January 2013 to January 2014 in Nice, France
+#### January 2013 to January 2014 in Nice, France
 Worked with Amadeus, a client of Capgemini, which is a Global Distribution System (GDS) for airline industry. Our team was responsible for development and maintenance of the servers which processed the payments.
 * Worked on treating Virtual Credit Cards.
 * The role included development of backend in C++ and BASH. The development was done in Eclipse IDE and Linux.
@@ -41,5 +41,5 @@ Worked with Amadeus, a client of Capgemini, which is a Global Distribution Syste
 * Acquired proficiency in Distributed Systems, Standard Template Library (STL) and Design Patterns.
 
 ### Orange Labs | Research Intern
-# June 2012 to January 2013 in Nice, France
+#### June 2012 to January 2013 in Nice, France
 Responsible for the implementation of an Augmented Reality (AR) application as a research intern. I successfully implemented a Proof of Concept to actively interact with real world. For example we can put virtual post-it on refrigerator which can be accessed and visualised using the application. Learned and implemented concepts of MVC design pattern, Multi-threading(POSIX), Networking, IOS programming. The code was implemented in C++, Qt and Objective C language.
