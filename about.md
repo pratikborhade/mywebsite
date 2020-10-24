@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![pratikBorhadeAboutPic.jpg]({{site.baseurl}}/res/pratikBorhadeAboutPic.jpg =240x260)
+![pratikBorhadeAboutPic.jpg]({{site.baseurl}}/res/pratikBorhadeAboutPic.jpg)
 <p class="message">
 
 </p>
